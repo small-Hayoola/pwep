@@ -4,6 +4,8 @@ pwep is a simple integrated development environment for  single file python prog
 
 ![screenshot](./screenshot.png)
 
+### usage
+pwep is deployed via vercel on [here](https://pwep-ashen.vercel.app/). a help page has been integrated in the app on the ``helpkit`` page or [here](https://pwep-ashen.vercel.app/here)
 
 ### contributing
 
