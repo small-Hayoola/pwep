@@ -24,7 +24,7 @@ npm run dev -- --open
 to create a production version of pweb:
 
 ```bash
-git clone https://link pweb
+git clone https://github.com/small-Hayoola/pwep
 cd pweb
 npm install
 npm run build
