@@ -1,3 +1,3 @@
 export const content = $state({
-    value: ""
+    value: "print(2 + 2)"
 });
