@@ -5,9 +5,11 @@ pwep is a simple integrated development environment for  single file python prog
 ![screenshot](./screenshot.png)
 
 ### usage
-pwep is deployed via vercel on [here](https://pwep-ashen.vercel.app/). a help page has been integrated in the app on the ``helpkit`` page or [here](https://pwep-ashen.vercel.app/help)
+pwep is deployed via a vercel free automatic plan on [here](https://pwep-ashen.vercel.app/). a help page has been integrated in the app on the ``helpkit`` page or [here](https://pwep-ashen.vercel.app/help) from the ``/help`` route.
 
-### contributing
+> note that the free vercel plan limits web workers and svelte render time therefore the python run time might run slower compared to a local build. running the project locally on dev environment or building it might lead to better results
+
+### development
 
 once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
